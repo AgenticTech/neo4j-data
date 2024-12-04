@@ -1,6 +1,0 @@
-skill_id,skill_content,skill_title,skill_description,agents,services,actions
-0,,Create S3 Storage,This skill involves creating an Amazon S3 storage bucket for storing and retrieving data.,CloudOps Agent,S3,Create
-1,,Provision EC2 instance,This skill involves creating and configuring an Amazon EC2 instance in the AWS cloud environment.,CloudOps Agent,EC2,Provision
-2,,Create Virtual Private Cloud,This skill involves setting up a Virtual Private Cloud (VPC) to provide a secure and isolated network environment for resources in the cloud.,CloudOps Agent,Virtual Private Cloud,Create
-3,,Create Public Subnet,"This skill involves the creation of a public subnet within a cloud environment, allowing resources within the subnet to be accessible from the internet.",CloudOps Agent,Subnet,Create
-4,,Take a Snapshot from EC2,"This skill involves creating a snapshot of an Amazon EC2 instance, which captures the current state of the instance's volumes.",CloudOps Agent,EC2,Create
